@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.cris6h16</groupId>
-    <artifactId>SpringSecurity-AuthenticationHttpBasic</artifactId>
+    <artifactId>SpringSecurity-Login-Logout-Events-form</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringSecurity-AuthenticationHttpBasic</name>
-    <description>SpringSecurity-AuthenticationHttpBasic</description>
+    <name>SpringSecurity-Login-Logout-Events-form</name>
+    <description>SpringSecurity-Login-Logout-Events-form</description>
     <properties>
         <java.version>21</java.version>
     </properties>

@@ -1,4 +1,4 @@
-package org.cris6h16.springsecurityauthenticationhttpbasic.Controller;
+package org.cris6h16.example.Controller;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
